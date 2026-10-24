@@ -2,6 +2,9 @@
 
 **BallPark** is a guesstimate trainer for consulting interviews, built around India. One question a day, a research team that gives you three clues, a streak, a shop and a Learn section.
 
+## Try it in your browser
+Open **https://ballpark.mehtatanmay9211.workers.dev** on any phone or computer. No install needed.
+
 ## Install on Android
 1. Open the **[latest release](../../releases/latest)** on your phone.
 2. Download **BallPark.apk**.
